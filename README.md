@@ -4,4 +4,4 @@
 3. Adding camera with IR (Infrared) feature and the motion detecting to ensure the building is secure at night.
 4.Face recognition by GUI.
 5. Object tracking .
-6.Intruder detection of the security system.
+6.Intruder detection of the security system
